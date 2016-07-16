@@ -9,10 +9,10 @@ var About = (props) =>{
       <p>Here some Tools that i used</p>
       <ul>
         <li>
-          <a herf="https://facebook.github.io/react">React</a> - This was the JavaScript framework i used
+          <a href="https://facebook.github.io/react">React</a> - This was the JavaScript framework i used
         </li>
         <li>
-          <a herf="https://home.openweathermap.org">React</a> - Weather API
+          <a href="https://home.openweathermap.org">React</a> - Weather API
         </li>
       </ul>
     </div>
